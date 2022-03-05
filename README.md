@@ -1,4 +1,4 @@
-#Your Task
+# Your Task
 This week is an odd-numbered week, so your Challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: accessibility.
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
@@ -17,13 +17,13 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 Are you ready to jump in? Here are this week's challenge requirements:
 
-##User Story
+## User Story
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-##Acceptance Criteria
+## Acceptance Criteria
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -37,7 +37,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-##Mock-Up
+## Mock-Up
 > **NOTE**
 > This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future lessons, you will learn how to make elements "responsive" so that your web application is optimized for any screen size.
 
@@ -47,7 +47,7 @@ The following image shows the web application's appearance and functionality:
 
 A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.
 
-##How to Complete the Challenge
+## How to Complete the Challenge
 Follow these steps to complete the challenge:
 
 1. Clone your [starter code](https://github.com/coding-boot-camp/urban-octo-telegram)
@@ -58,10 +58,10 @@ Follow these steps to complete the challenge:
 
 4. Follow the instructions to submit your Challenge for review.
 
-##Grading Requirements
+## Grading Requirements
 This challenge is graded based on the following criteria:
 
-###Technical Acceptance Criteria: 40%
+### Technical Acceptance Criteria: 40%
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
 - Application's links all function correctly. (Checked)
@@ -70,7 +70,7 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 - Application's CSS file is properly commented. (added comments around component styles like marketing card and benefit card)
 
-###Deployment: 32%
+### Deployment: 32%
 - Application deployed at live URL. (done: [horiseon site](https://camilaf99.github.io/horiseon-challenge/))
 
 - Application loads with no errors. (checked)
@@ -79,9 +79,9 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 - GitHub repository that contains application code. (checked)
 
-###Application Quality: 15%
+### Application Quality: 15%
 - Application resembles (at least 90%) screenshots provided in challenge instructions. (screenshots in README file are from the application)
-###Repository Quality: 13%
+### Repository Quality: 13%
 - Repository has a unique name. (checked)
 
 - Repository follows best practices for file structure and naming conventions. (checked)
