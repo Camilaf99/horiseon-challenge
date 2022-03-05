@@ -59,24 +59,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    /*float is to make sure the pictures added in html is on the LEFT of the page with the margin of 25*/
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.marketing-services {
-    /*this is the innermost part of the box, by applying the width and margin, it tells the content how to flow in the page without overlapping the pictures*/
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/*these are the styles used on the benefits section of the page*/
 .benefits {
     /* this whole box is to the right of the page, by adding float and other attributes*/
     margin-right: 20px;
@@ -88,7 +71,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*this describes the benefits card component*/
 .benefit-card {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,6 +88,14 @@ p {
     max-width: 150px;
 }
 
+/*these are the styles used on the marketing services section*/
+.marketing-services {
+    /*this is the innermost part of the box, by applying the width and margin, it tells the content how to flow in the page without overlapping the pictures*/
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .marketing-services-card {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +103,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+/*float is to make sure the pictures added in html is on the LEFT of the page with the margin of 25*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/*float is to make sure the pictures added in html is on the RIGHT of the page with the margin of 25*/
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .marketing-services-card img {
